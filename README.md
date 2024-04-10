@@ -2,7 +2,7 @@
 
 
 - 🔭 Everyone Watches Womens Sports Application - if my github is quiet, I'm working on Stanford's code in place program to dive into Python
-- 🌱 I’m currently deciding what to learn next - React or AWS? 
+- 🌱 I’m currently deciding what to learn next to add to my tool kit
 - 💬 Ask me about collaborating on a passion project crossover with womens sports - will be my next project
 - 📫 How to reach me: k.reynolds102@gmail.com
 - 😄 Pronouns: she/her
